@@ -6,6 +6,6 @@ This repository is created to serve as a base project for class demo's and labs 
 
 #To clone this project, do:
 
-git clone https://github.com/CodeCoreYVR/doggoArena_base_project.git <your choice of name>
+git clone https://github.com/CodeCoreYVR/doggoArena_base_project.git "your choice of name"
   
-This will clone your repository into a directory with the name given instead of "<your choice of name>"
+This will clone your repository into a directory with the name given instead of "your choice of name"
